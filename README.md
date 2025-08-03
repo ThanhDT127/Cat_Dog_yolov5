@@ -27,7 +27,7 @@ A ready-to-run notebook is provided for quick experimentation on Google Colab:
 ## Setup & Installation
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/anducthanh/cat-dog-yolov5.git
-   cd cat-dog-yolov5
+   git clone https://github.com/ThanhDT127/Cat_Dog_yolov5.git
+   cd Cat_Dog_yolov5
 ## result
 <img width="1150" height="672" alt="image" src="https://github.com/user-attachments/assets/9f6c4d65-9adc-4a7d-bb1b-dab0a3b993ca" />
